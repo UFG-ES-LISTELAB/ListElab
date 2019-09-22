@@ -12,8 +12,8 @@ namespace listelab_dominio.Conceitos
     public class QuestaoDiscursiva : Questao
     {
         /// <summary>
-        /// Representa as palavras chaves que compõe uma resposta esperada.
+        /// Representa os insumos para resposta.
         /// </summary>
-        public IList<string> PalavrasChaves { get; set; }
+        public RespostaDiscursiva InsumoResposta { get; set; }
     }
 }

@@ -32,7 +32,7 @@ namespace listelab_servico.Validacoes
         /// </summary>
         public void AssineRegraPalavraChaveInformado()
         {
-            RuleFor(questao => questao.PalavrasChaves)
+            RuleFor(questao => questao.InsumoResposta.PalavrasChaves)
                 .Must(ValidePalavrasChaves)
                 .WithMessage("Pelo menos uma palavra chave deve ser informada");
         }
@@ -64,16 +64,16 @@ namespace listelab_servico.Validacoes
         {
         }
 
-        private bool ValidePalavrasChaves(IList<string> palavras)
+        private bool ValidePalavrasChaves(IList<PalavrasChaves> palavras)
         {
             if (palavras == null)
             {
                 return false;
             }
 
-            var listaValidada = palavras.ToList();
+            var listaValidada = palavras;
 
-            return listaValidada.Any(x => !string.IsNullOrWhiteSpace(x));
+            return listaValidada.All(x => x != null);
         }
     }
 }

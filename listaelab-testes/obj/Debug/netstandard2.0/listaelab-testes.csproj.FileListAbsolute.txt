@@ -1,0 +1,16 @@
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listaelab-testes.deps.json
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listaelab-testes.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listaelab-testes.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-data.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-dominio.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-servico.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-servico.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-data.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\bin\Debug\netstandard2.0\listelab-dominio.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.csprojAssemblyReference.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.AssemblyInfoInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.AssemblyInfo.cs
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.csproj.CopyComplete
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listaelab-testes\obj\Debug\netstandard2.0\listaelab-testes.pdb

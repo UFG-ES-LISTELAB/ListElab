@@ -1,0 +1,12 @@
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\bin\Debug\netstandard2.0\listelab-data.deps.json
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\bin\Debug\netstandard2.0\listelab-data.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\bin\Debug\netstandard2.0\listelab-data.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\bin\Debug\netstandard2.0\listelab-dominio.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\bin\Debug\netstandard2.0\listelab-dominio.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.csprojAssemblyReference.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.AssemblyInfoInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.AssemblyInfo.cs
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.csproj.CopyComplete
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-data\obj\Debug\netstandard2.0\listelab-data.pdb

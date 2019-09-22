@@ -1,0 +1,14 @@
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-servico.deps.json
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-servico.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-servico.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-data.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-dominio.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-data.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\bin\Debug\netstandard2.0\listelab-dominio.pdb
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.csprojAssemblyReference.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.csproj.CoreCompileInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.AssemblyInfoInputs.cache
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.AssemblyInfo.cs
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.csproj.CopyComplete
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.dll
+C:\Users\saulo\Documents\PoC-ListElab-Server\listelab-servico\obj\Debug\netstandard2.0\listelab-servico.pdb
