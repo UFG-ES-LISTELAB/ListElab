@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listaelab-testes\\listaelab-testes.csproj": {}
+    "C:\\git\\ListElab\\poc\\ListElab\\listaelab-testes\\listaelab-testes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listaelab-testes\\listaelab-testes.csproj": {
+    "C:\\git\\ListElab\\poc\\ListElab\\listaelab-testes\\listaelab-testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listaelab-testes\\listaelab-testes.csproj",
+        "projectUniqueName": "C:\\git\\ListElab\\poc\\ListElab\\listaelab-testes\\listaelab-testes.csproj",
         "projectName": "listaelab-testes",
-        "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listaelab-testes\\listaelab-testes.csproj",
-        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listaelab-testes\\obj\\",
+        "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listaelab-testes\\listaelab-testes.csproj",
+        "packagesPath": "C:\\Users\\Fenro\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\ListElab\\poc\\ListElab\\listaelab-testes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fenro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\listelab-servico.csproj": {
-                "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\listelab-servico.csproj"
+              "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\listelab-servico.csproj": {
+                "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\listelab-servico.csproj"
               }
             }
           }
@@ -72,20 +72,20 @@
         }
       }
     },
-    "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\listelab-data.csproj": {
+    "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\listelab-data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\listelab-data.csproj",
+        "projectUniqueName": "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\listelab-data.csproj",
         "projectName": "listelab-data",
-        "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\listelab-data.csproj",
-        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\obj\\",
+        "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\listelab-data.csproj",
+        "packagesPath": "C:\\Users\\Fenro\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fenro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -98,8 +98,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj": {
-                "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj"
+              "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj": {
+                "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj"
               }
             }
           }
@@ -136,20 +136,20 @@
         }
       }
     },
-    "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj": {
+    "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj",
+        "projectUniqueName": "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj",
         "projectName": "listelab-dominio",
-        "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj",
-        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\obj\\",
+        "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj",
+        "packagesPath": "C:\\Users\\Fenro\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fenro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -192,20 +192,20 @@
         }
       }
     },
-    "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\listelab-servico.csproj": {
+    "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\listelab-servico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\listelab-servico.csproj",
+        "projectUniqueName": "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\listelab-servico.csproj",
         "projectName": "listelab-servico",
-        "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\listelab-servico.csproj",
-        "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-servico\\obj\\",
+        "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\listelab-servico.csproj",
+        "packagesPath": "C:\\Users\\Fenro\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-servico\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\saulo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Fenro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -218,11 +218,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\listelab-data.csproj": {
-                "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-data\\listelab-data.csproj"
+              "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\listelab-data.csproj": {
+                "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-data\\listelab-data.csproj"
               },
-              "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj": {
-                "projectPath": "C:\\Users\\saulo\\Documents\\PoC-ListElab-Server\\listelab-dominio\\listelab-dominio.csproj"
+              "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj": {
+                "projectPath": "C:\\git\\ListElab\\poc\\ListElab\\listelab-dominio\\listelab-dominio.csproj"
               }
             }
           }
