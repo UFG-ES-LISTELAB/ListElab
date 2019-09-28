@@ -2,6 +2,8 @@
 using FluentValidation;
 using System.Collections.Generic;
 using System.Linq;
+using listelab_dominio.Conceitos.RespostaObj;
+using listelab_dominio.Conceitos.QuestaoObj;
 
 namespace listelab_servico.Validacoes
 {
@@ -23,7 +25,7 @@ namespace listelab_servico.Validacoes
         public void AssineRegraDeveTerEnunciado()
         {
             RuleFor(questao => questao.Enunciado)
-                .Must(enunciado => !string.IsNullOrEmpty(enunciado))
+                .Must(enunciado => !string.IsNullOrWhiteSpace(enunciado))
                 .WithMessage("O enunciado da questão deve ser informado");
         }
 
@@ -32,7 +34,7 @@ namespace listelab_servico.Validacoes
         /// </summary>
         public void AssineRegraPalavraChaveInformado()
         {
-            RuleFor(questao => questao.InsumoResposta.PalavrasChaves)
+            RuleFor(questao => questao.RespostaEsperada.PalavrasChaves)
                 .Must(ValidePalavrasChaves)
                 .WithMessage("Pelo menos uma palavra chave deve ser informada");
         }

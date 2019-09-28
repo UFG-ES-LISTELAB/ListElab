@@ -1,15 +1,13 @@
 ﻿using listelab_dominio.Abstrato;
+using listelab_dominio.Conceitos.RespostaObj;
 using listelab_dominio.Enumeradores;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace listelab_dominio.Conceitos
+namespace listelab_dominio.Conceitos.QuestaoObj
 {
     /// <summary>
     /// Representa uma questão genérica.
     /// </summary>
-    public class Questao : ObjetoComId
+    public abstract class Questao<T> : ObjetoComId where T : Resposta
     {
         /// <summary>
         /// Representa o enunciado de uma questão.
@@ -30,5 +28,10 @@ namespace listelab_dominio.Conceitos
         /// Representa o tempo máximo para responder a questão em minutos.
         /// </summary>
         public int TempoMaximoDeResposta { get; set; }
+
+        /// <summary>
+        /// Representa os insumos para resposta.
+        /// </summary>
+        public T RespostaEsperada { get; set; }
     }
 }

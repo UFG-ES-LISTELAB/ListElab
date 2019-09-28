@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace listelab_dominio.Conceitos
+namespace listelab_dominio.Conceitos.RespostaObj
 {
     public abstract class Resposta
     {

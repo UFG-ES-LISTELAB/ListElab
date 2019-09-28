@@ -22,14 +22,14 @@
             <param name="codigo">O código da questão discursiva que se deseja buscar.</param>
             <returns>Retorna objeto de resposta de sucesso ou falha, contendo o objeto desejado, caso sucesso.</returns>
         </member>
-        <member name="M:listelab_contrato.Controllers.QuestaoDiscursivaController.Cadastre(listelab_dominio.Conceitos.QuestaoDiscursiva)">
+        <member name="M:listelab_contrato.Controllers.QuestaoDiscursivaController.Cadastre(listelab_dominio.Conceitos.QuestaoObj.QuestaoDiscursiva)">
             <summary>
             Cadastra uma questão discursiva.
             </summary>
             <param name="questao">A questão discursiva que se deseja cadastrar.</param>
             <returns>Retorna objeto com resultado da requisição.</returns>
         </member>
-        <member name="M:listelab_contrato.Controllers.QuestaoDiscursivaController.Atualize(listelab_dominio.Conceitos.QuestaoDiscursiva)">
+        <member name="M:listelab_contrato.Controllers.QuestaoDiscursivaController.Atualize(listelab_dominio.Conceitos.QuestaoObj.QuestaoDiscursiva)">
             <summary>
             Atualiza uma questão discursiva.
             </summary>
